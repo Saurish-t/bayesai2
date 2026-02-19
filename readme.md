@@ -81,7 +81,7 @@ This means:
 
 ---
 
-# Input File 2: `probs.txt` (Query + Probabilities)
+# Input File 2: probs.txt (Query + Probabilities)
 
 This file contains:
 
